@@ -1,5 +1,4 @@
-# Amazon_prime_analysis
-
+# Amazon_Prime_Data_Analysis
 
 ![Amazon Prime Analysis](https://github.com/Dhanesha151001/Amazon_prime_analysis/assets/103206429/41c62cfa-9b99-4160-8e77-9c6ae09b080e)
 
