@@ -1,5 +1,6 @@
 # Amazon_prime_analysis
 
-![Amazon_Prime_Analysis](https://github.com/Dhanesha151001/Amazon_prime_analysis/assets/103206429/bc1a8031-1aac-4bff-9347-658f35cc8c38)
+
+![Amazon Prime Analysis](https://github.com/Dhanesha151001/Amazon_prime_analysis/assets/103206429/41c62cfa-9b99-4160-8e77-9c6ae09b080e)
 
 Analysis of Amazon Prime on the basis of different genres of movies, tv-shows, documentaries and many more corresponding to their rating, release date, director. A detailed analysis of overall amazon prime database.
